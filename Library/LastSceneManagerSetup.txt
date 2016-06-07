@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/01-grabbing-objects.unity
+  isLoaded: 1
+  isActive: 1
